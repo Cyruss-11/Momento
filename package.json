@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "@bytemd/plugin-gfm": "^1.22.0",
+    "@bytemd/plugin-highlight": "^1.22.0",
+    "@bytemd/vue-next": "^1.22.0",
+    "@tinymce/tinymce-vue": "^6.1.0",
+    "@vueup/vue-quill": "^1.2.0",
+    "marked": "^15.0.7",
+    "quill": "^2.0.3"
+  }
+}
